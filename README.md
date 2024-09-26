@@ -1,5 +1,5 @@
 README
-# Project Title: Fashion Item Classification using Convolutional Neural Networks 👗👠👜
+# Fashion Item Classification using Convolutional Neural Networks 👗👠👜
 
 ### Description
 This Jupyter Notebook is designed to classify fashion items using Convolutional Neural Networks (CNNs) and the Fashion-MNIST dataset. The Fashion-MNIST dataset is a collection of 70,000 grayscale images of 28x28 pixels, each representing one of 10 different fashion categories.
